@@ -1,0 +1,1 @@
+C:\Windows\SysWOW64\cmd.exe /c cscript C:\Export\_FileCab\EmailUtility\SendEmail.vbs
